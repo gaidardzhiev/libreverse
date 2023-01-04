@@ -1,1 +1,1 @@
-reverse string shared library that takes the last byte and swaps it with the first and returns a pointer to the string for convenience
+reverse string shared library that takes the last byte and swaps it with the first and returns a pointer to the string
